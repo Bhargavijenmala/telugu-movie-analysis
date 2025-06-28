@@ -33,26 +33,27 @@ This project performs an exploratory data analysis (EDA) on a dataset of Telugu 
 
 ## 📷 Sample Visualizations
 
-### Genre Distribution
-![Genre Distribution](![image](https://github.com/user-attachments/assets/1d7fdee5-4801-413b-b8fa-91d1123260cf)
-)
+### 🎭 Genre Distribution
+<img src="C:\Users\Bhargavi Jenmala\Downloads\Genre Distribution.png" width="600">
 
-### Number of Movies Released Per Year
-![Runtime Distribution](![image](https://github.com/user-attachments/assets/bc1b0b8f-7093-4787-996c-2277b03cca0a)
-)
+### 📈 Number of Telugu Movies Released Per Year
+<img src="C:\Users\Bhargavi Jenmala\Downloads\Number of Telugu Movies Released Per Year.png" width="600">
 
-### Average Movie Rating Over the Years
-![Average Movie Rating](![image](https://github.com/user-attachments/assets/28ee5d31-0d06-445f-bbd9-8375de8e8790)
-)
+### ⭐ Average Movie Rating Over the Years
+<img src="C:\Users\Bhargavi Jenmala\Downloads\Average Movie Rating Over the Years.png" width="600">
 
-### Top 10 Telugu Movies by Number of Ratings
-![Top 10 Telugu Movies](![image](https://github.com/user-attachments/assets/f726d49b-e38c-4749-b0ff-c1d41fcc009c)
-)
+### 🕒 Distribution of Movie Runtimes
+<img src="C:\Users\Bhargavi Jenmala\Downloads\Distribution of Movie Ratings.png" width="600">
 
+### 🏆 Top 10 Telugu Movies by Number of Ratings
+<img src="C:\Users\Bhargavi Jenmala\Downloads\Top 10 Telugu Movies by Number of Ratings.png" width="600">
 
-### Certificate Pie Chart
-![Certificate Pie](![image](https://github.com/user-attachments/assets/6ee3275b-c67d-439d-a0d9-1558113b0a6f)
-.png)
+### 🎫 Certificate Distribution of Telugu Movies
+<img src="C:\Users\Bhargavi Jenmala\Downloads\Certificate Distribution of Telugu Movies.png" width="600">
 
+### 🧩 Top 4 Movie Certificates Distribution (Pie Chart)
+<img src="C:\Users\Bhargavi Jenmala\Downloads\Top 4 Movie Certificates Distribution.png" width="600">
 
+### ☁️ Word Cloud of Movie Genres
+<img src="C:\Users\Bhargavi Jenmala\Downloads\Word Cloud of Movie Genres.png" width="600">
 
