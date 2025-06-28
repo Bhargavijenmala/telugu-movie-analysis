@@ -32,26 +32,27 @@ This project performs an exploratory data analysis (EDA) on a dataset of Telugu 
 ## 📷 Sample Visualizations
 
 ### 🎭 Genre Distribution
-<img src="sample_images/Genre Distribution.png" width="600">
+![Genre Distribution](https://github.com/user-attachments/assets/e4587057-9989-4db9-a39b-2e031799c042)
 
 ### 📈 Number of Telugu Movies Released Per Year
-<img src="C:\Users\Bhargavi Jenmala\Downloads\Number of Telugu Movies Released Per Year.png" width="600">
+![Number of Telugu Movies Released Per Year](https://github.com/user-attachments/assets/e78e4c34-9fff-40de-914a-3178b279fe8f)
 
 ### ⭐ Average Movie Rating Over the Years
-<img src="C:\Users\Bhargavi Jenmala\Downloads\Average Movie Rating Over the Years.png" width="600">
+![Average Movie Rating Over the Years](https://github.com/user-attachments/assets/9585237e-4185-4d8a-81dc-9be7b2edcf76)
 
 ### 🕒 Distribution of Movie Runtimes
-<img src="C:\Users\Bhargavi Jenmala\Downloads\Distribution of Movie Ratings.png" width="600">
+![Distribution of Movie Ratings](https://github.com/user-attachments/assets/9dedef32-ba93-40bd-b611-84af0b6e69bd)
 
 ### 🏆 Top 10 Telugu Movies by Number of Ratings
-<img src="C:\Users\Bhargavi Jenmala\Downloads\Top 10 Telugu Movies by Number of Ratings.png" width="600">
+![Top 10 Telugu Movies by Number of Ratings](https://github.com/user-attachments/assets/b799ee58-e682-4566-a90d-625052d4d811)
 
 ### 🎫 Certificate Distribution of Telugu Movies
-<img src="C:\Users\Bhargavi Jenmala\Downloads\Certificate Distribution of Telugu Movies.png" width="600">
+![Certificate Distribution of Telugu Movies](https://github.com/user-attachments/assets/502fa9ce-3ac7-4613-941f-bfe7c14b2ce9)
 
 ### 🧩 Top 4 Movie Certificates Distribution (Pie Chart)
-<img src="C:\Users\Bhargavi Jenmala\Downloads\Top 4 Movie Certificates Distribution.png" width="600">
+![Top 4 Movie Certificates Distribution](https://github.com/user-attachments/assets/5ccc1d9b-350c-44d7-b68b-4a4dc26c719e)
 
 ### ☁️ Word Cloud of Movie Genres
-<img src="C:\Users\Bhargavi Jenmala\Downloads\Word Cloud of Movie Genres.png" width="600">
+![Word Cloud of Movie Genres](https://github.com/user-attachments/assets/b925fd9b-9b5e-4626-95d8-eeda2dee1967)
+
 
