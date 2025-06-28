@@ -30,22 +30,29 @@ This project performs an exploratory data analysis (EDA) on a dataset of Telugu 
 - Source: [Kaggle - Telugu Movies Dataset](https://www.kaggle.com/datasets/itschannel/telugu-movies-dataset)
 - Contains fields like: `Movie`, `Year`, `Genre`, `Runtime`, `Rating`, `Certificate`, `No.of.Ratings`, `Overview`
 
----
-
-## 📷 Sample Visualizations
 
 ## 📷 Sample Visualizations
 
 ### Genre Distribution
-![Genre Distribution](sample_images/genre_bar.png)
+![Genre Distribution](![image](https://github.com/user-attachments/assets/1d7fdee5-4801-413b-b8fa-91d1123260cf.png)
+)
 
-### Runtime Distribution
-![Runtime Distribution](sample_images/runtime_hist.png)
+### Number of Movies Released Per Year
+![Runtime Distribution](![image](https://github.com/user-attachments/assets/bc1b0b8f-7093-4787-996c-2277b03cca0a.png)
+)
+
+### Average Movie Rating Over the Years
+![Average Movie Rating](![image](https://github.com/user-attachments/assets/28ee5d31-0d06-445f-bbd9-8375de8e8790.png)
+)
+
+### Top 10 Telugu Movies by Number of Ratings
+![Top 10 Telugu Movies](![image](https://github.com/user-attachments/assets/f726d49b-e38c-4749-b0ff-c1d41fcc009c)
+)
+
 
 ### Certificate Pie Chart
-![Certificate Pie](sample_images/certificate_pie.png)
-<img src="sample_images/genre_bar.png" width="400">
-<img src="sample_images/runtime_hist.png" width="400">
+![Certificate Pie](![image](https://github.com/user-attachments/assets/6ee3275b-c67d-439d-a0d9-1558113b0a6f)
+.png)
 
 
 
