@@ -1,7 +1,5 @@
-# telugu-movie-analysis
-Data analysis project using Python to explore and visualize Telugu cinema trends. Features charts and word clouds built with matplotlib and pandas.
 # Telugu Movie Data Analysis 🎬
-
+Data analysis project using Python to explore and visualize Telugu cinema trends. Features charts and word clouds built with matplotlib and pandas.
 This project performs an exploratory data analysis (EDA) on a dataset of Telugu movies sourced from [Kaggle](https://www.kaggle.com/datasets/itschannel/telugu-movies-dataset). The analysis includes data cleaning, visualization, and insights generation using Python libraries such as pandas, matplotlib, and wordcloud.
 
 ---
@@ -34,7 +32,7 @@ This project performs an exploratory data analysis (EDA) on a dataset of Telugu 
 ## 📷 Sample Visualizations
 
 ### 🎭 Genre Distribution
-<img src="C:\Users\Bhargavi Jenmala\Downloads\Genre Distribution.png" width="600">
+<img src="sample_images/Genre Distribution.png" width="600">
 
 ### 📈 Number of Telugu Movies Released Per Year
 <img src="C:\Users\Bhargavi Jenmala\Downloads\Number of Telugu Movies Released Per Year.png" width="600">
