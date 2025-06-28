@@ -34,7 +34,18 @@ This project performs an exploratory data analysis (EDA) on a dataset of Telugu 
 
 ## 📷 Sample Visualizations
 
+## 📷 Sample Visualizations
+
+### Genre Distribution
+![Genre Distribution](sample_images/genre_bar.png)
+
+### Runtime Distribution
+![Runtime Distribution](sample_images/runtime_hist.png)
+
+### Certificate Pie Chart
+![Certificate Pie](sample_images/certificate_pie.png)
 <img src="sample_images/genre_bar.png" width="400">
-<img src="sample_images/rating_hist.png" width="400">
+<img src="sample_images/runtime_hist.png" width="400">
+
 
 
