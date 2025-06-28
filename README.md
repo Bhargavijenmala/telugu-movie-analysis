@@ -34,15 +34,15 @@ This project performs an exploratory data analysis (EDA) on a dataset of Telugu 
 ## 📷 Sample Visualizations
 
 ### Genre Distribution
-![Genre Distribution](![image](https://github.com/user-attachments/assets/1d7fdee5-4801-413b-b8fa-91d1123260cf.png)
+![Genre Distribution](![image](https://github.com/user-attachments/assets/1d7fdee5-4801-413b-b8fa-91d1123260cf)
 )
 
 ### Number of Movies Released Per Year
-![Runtime Distribution](![image](https://github.com/user-attachments/assets/bc1b0b8f-7093-4787-996c-2277b03cca0a.png)
+![Runtime Distribution](![image](https://github.com/user-attachments/assets/bc1b0b8f-7093-4787-996c-2277b03cca0a)
 )
 
 ### Average Movie Rating Over the Years
-![Average Movie Rating](![image](https://github.com/user-attachments/assets/28ee5d31-0d06-445f-bbd9-8375de8e8790.png)
+![Average Movie Rating](![image](https://github.com/user-attachments/assets/28ee5d31-0d06-445f-bbd9-8375de8e8790)
 )
 
 ### Top 10 Telugu Movies by Number of Ratings
